@@ -1,0 +1,9 @@
+DATA
+
+The data that I will use is about the borougs and neigborhood of both cities. Each data has the location of the neigborhoods in Ney York and Toronto. 
+The other important source of data will be Foursquare, where there is all the info about the facilities in the neigborshoods.
+
+The sources of data are:
+
+New York: https://ibm.box.com/shared/static/fbpwbovar7lf8p5sgddm06cgipa2rxpe.json
+Toronto: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
